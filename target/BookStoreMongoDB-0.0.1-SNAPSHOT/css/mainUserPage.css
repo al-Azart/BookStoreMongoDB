@@ -1,0 +1,20 @@
+.row_selected
+{
+    font-weight: bold;
+    text-shadow: 1px 1px 0px #EEE;
+    color: #111;   
+}
+
+.my_orders{
+	background: #F4A460 !important;
+	color: black;
+}
+
+.buy{
+	background: #8FBC8F !important;
+	color: black;
+}
+
+td{
+	vertical-align: middle !important;
+}

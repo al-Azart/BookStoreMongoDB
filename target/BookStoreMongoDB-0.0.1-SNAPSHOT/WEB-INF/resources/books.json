@@ -1,0 +1,58 @@
+
+	[
+  		{
+    		"_id": "1d3c8a11-9fa8-4bbc-9377-883e3368b6e2",
+    		"title": "The Man in the High Castle",
+    		"authors": [
+     		 	"Peter V. Brett"
+    		],
+    		"yearOfPublication": "1962",
+    		"publisher": "Putnam",  	
+    		"price": 300.40
+  		},
+  
+  		{
+    		"_id": "cf5d5eb2-ca73-441c-8063-a53848fb7903",
+    		"title": "The Painted Man",
+    		"authors": [
+      				 "Peter V. Brett"
+    		],
+    		"yearOfPublication": "2001",
+    		"publisher": "Harper Collins Publishers", 	
+    		"price": 120.00
+  		},
+  
+  		{
+    		"_id": "02489647-26d8-4f1b-82af-74850fb4d440",
+    		"title": "The Desert Spear",
+    		"authors": [
+      				"Peter V. Brett",
+      				"Donald Jonson"
+    		],
+    		"yearOfPublication": "1989",
+    		"publisher": "Harper Collins Publishers",
+    		"price": 30.90
+  		},
+  
+  		{
+    		"_id": "f6bace59-dd0b-49ca-ba7a-3e7c8e2aba63",
+    		"title": "Daylight War",
+    		"authors": [
+     		 	"Peter V. Brett"
+    		],
+    		"yearOfPublication": "1962",
+    		"publisher": "Harper Collins Publishers",
+    		"price": 450.40
+  		},
+  
+  		{
+    		"_id": "f5b6ecc0-2a9c-40cd-bf12-ac226490b99a",
+    		"title": "The Skull Throne",
+    		"authors": [
+     		 	"Peter V. Brett"
+    		],
+    		"yearOfPublication": "1962",
+    		"publisher": "Harper Collins Publishers",
+    		"price": 300.40
+  		}
+	]

@@ -1,0 +1,44 @@
+/* .add_book .example{
+	 align-items: center !important;
+} */
+
+.row_selected
+{
+    font-weight: bold;
+    text-shadow: 1px 1px 0px #EEE;
+    color: #111;   
+}
+
+.users{
+	background: #FFD700 !important;
+	color: black;
+}
+
+.delete{
+	background: #F08080 !important;
+	color: black;
+}
+
+.orders{
+	background: #4169E1 !important;
+	color: black;
+}
+
+.add_book{
+	background: #F4A460 !important;
+	color: black;
+}
+
+.change_price{
+	background: #8FBC8F !important;
+	color: black;
+}
+
+td{
+	vertical-align: middle !important;
+}
+
+.main{
+	background: #90EE90 !important;
+	color: black;
+}
